@@ -62,7 +62,7 @@
                 "refObject" : "fieloplt__ruletrigger__c"
               }, {
                 "apiName" : "fieloplt__targetmember__c",
-                "value" : "Member__c"
+                "value" : "FieloPLT__Member__c"
               } ],
               "relatedList" : [ {
                 "objectAPIName" : "fieloplt__programassignment__c",
