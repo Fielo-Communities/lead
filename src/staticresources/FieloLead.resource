@@ -22,7 +22,7 @@
         "value" : "FieloLead"
       }, {
         "apiName" : "fieloplt__version__c",
-        "value" : "1.008"
+        "value" : "1.009"
       } ],
       "relatedList" : [ {
         "objectAPIName" : "fieloplt__ruletrigger__c",
@@ -46,7 +46,7 @@
           }, {
             "apiName" : "fieloplt__object__c",
             "value" : "Lead"
-          } ],
+          } ]
         } ]
       }, {
         "objectAPIName" : "fieloplt__model__c",
