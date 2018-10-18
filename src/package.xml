@@ -4,5 +4,14 @@
         <members>Lead</members>
         <name>ApexTrigger</name>
     </types>
+    <types>
+        <members>FieloPLT__Transaction__c.Lead__c</members>
+        <members>Lead.Member__c</members>
+        <name>CustomField</name>
+    </types>
+    <types>
+        <members>FieloLead</members>
+        <name>StaticResource</name>
+    </types>
     <version>41.0</version>
 </Package>
